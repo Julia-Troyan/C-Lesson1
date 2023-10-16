@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\bin\Debug\net6.0\HomeWok.exe
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\bin\Debug\net6.0\HomeWok.deps.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\bin\Debug\net6.0\HomeWok.runtimeconfig.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\bin\Debug\net6.0\HomeWok.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\bin\Debug\net6.0\HomeWok.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\refint\HomeWok.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\HomeWok.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Семирар 2\C#Lesson1\HomeWok\obj\Debug\net6.0\ref\HomeWok.dll
